@@ -6,6 +6,7 @@
 
 #### Iniciante:
 
+- [C Para Seres Humanos - Yaks Vinicios S. Souza](https://github.com/RoboCopGay/CParaSeresHumanos/releases)
 - [Curso Básico da Linguagem C - Peter Jandl Jr](https://novatec.com.br/livros/curso-basico-linguagem-c/) [**Nacional**]
 - [Introdução à Programação com a Linguagem C - Rodrigo B. Paes](https://novatec.com.br/livros/introducao-programacao-linguagem-c/) [**Nacional**]
 - [Introdução à programação em C -Maurício Aniche](https://www.casadocodigo.com.br/products/livro-introducao-c) [**Nacional**]
